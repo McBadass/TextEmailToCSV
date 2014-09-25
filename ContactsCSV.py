@@ -1,7 +1,6 @@
-__author__ = 'tvories'
+__author__ = 'McBadass'
 
-import csv
-
+# Change this to file location
 fileName = "D:\Documents\contacts.txt"
 
 fileToRead = open(fileName, 'r').readlines()
